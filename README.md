@@ -1,1 +1,1 @@
-# SDET_APIProjects
+# SDET_API_Projects
